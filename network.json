@@ -3,26 +3,12 @@
         "xzhan147"
     ],
     "created_at": "2018-10-04 15:14:48",
-    "edges": [
-        {
-            "ports": [
-                {
-                    "output": "clean_data",
-                    "type": "csv"
-                }
-            ],
-            "source": "clean.R",
-            "target": "data.csv"
-        }
-    ],
+    "edges": [],
     "nodes": [
-        {
-            "name": "clean.R"
-        },
         {
             "name": "data.csv"
         }
     ],
-    "updated_at": "2018-10-04 15:15:01",
+    "updated_at": "2018-10-04 15:15:13",
     "url": "https://github.com/fall2018-saltz/ist687hw6"
 }
